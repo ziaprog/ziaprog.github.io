@@ -23,7 +23,7 @@ body
 }
 
 .navbar, .navbar-inner{
-     background:#51a351;
+     background:#571D42;
     color:#FFFFFF;
     filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
@@ -38,7 +38,7 @@ body
 }
 .navbar-inner
 {
-    background:#51a351;
+    background:#571D42;
     color:#FFFFFF;
 }
 .navbar .nav>li>a
