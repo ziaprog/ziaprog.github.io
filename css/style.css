@@ -37,13 +37,13 @@ body
 }
 
 .navbar, .navbar-inner{
-     background:#571D42;
+     background:#7B1616;
     color:#FFFFFF;
     filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 .navbar .brand, .footer
 {
-    background:#571D42;
+    background:#7B1616;
     color:#FFFFFF;
 }
 .footer a
@@ -52,7 +52,7 @@ body
 }
 .navbar-inner
 {
-    background:#571D42;
+    background:#7B1616;
     color:#FFFFFF;
 }
 .navbar .nav>li>a
