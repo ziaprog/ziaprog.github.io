@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Lato:100,400);
+@import url(http://fonts.googleapis.com/css?family=Lato);
 
 /* bootstrap */
 body
@@ -10,7 +10,10 @@ body
 {
     padding:50px 0;
 }
-
+h1
+{
+	font-weight:inherit !important;
+}
 .pic img
 {
     width:95%;
