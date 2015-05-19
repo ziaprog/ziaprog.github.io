@@ -73,7 +73,7 @@ h1{
 }
 .services-icon, .address-icon
 {
-    color: #51a351;
+    color: #F89A14;
 }
 
 .project
@@ -85,7 +85,7 @@ h1{
     max-width: 200px;
     width:90%;
     height: auto;
-    border: 2px solid #51a351;
+    border: 2px solid #F89A14;
 }
 
 input[type=text]
